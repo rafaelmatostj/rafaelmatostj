@@ -19,7 +19,6 @@ My passion for programming is related to create incredible things and help peopl
 
 <a href="https://github.com/rafaelmatostj">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelmatostj&show_icons=true&theme=buefy" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelamatostj&layout=compact&theme=buefy" />
 </a>
 
 ### ☕️&nbsp; Wanna chat?

@@ -1,4 +1,4 @@
-🖖🏼 &nbsp; Hi! I'm a Software Engineer at [DevMattos](https://devmattos.cf/)
+🖖🏼 &nbsp; Hi! I'm a Software Engineer at [Developer Mattos](https://mybios.cf/)
 
 ### ✨&nbsp; Seeking knowledge all the time
 
@@ -14,11 +14,18 @@ My passion for programming is related to create incredible things and help peopl
 - Launch a real product
 - Improve my [GraphQL](https://graphql.org/) Knowledge
 
+
+## ➤ My stats
+
+<a href="https://github.com/rafaelmatostj">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelmatostj&show_icons=true&theme=buefy" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelamatostj&layout=compact&theme=buefy" />
+</a>
+
 ### ☕️&nbsp; Wanna chat?
 
-🚀 [Site](https://rafaelmatos.cf) <br>
+🚀 [Site](https://mybios.cf) <br>
 🐦 [Twitter](https://twitter.com/DevMattos) <br>
 📸 [Instagram](https://www.instagram.com/rafs_006) <br>
-💼 [LinkedIn](https://www.linkedin.com/in/rafael-araújo-matos-219044155/) <br>
 
 - Programming stuff

@@ -15,11 +15,6 @@ My passion for programming is related to create incredible things and help peopl
 - Improve my [GraphQL](https://graphql.org/) Knowledge
 
 
-## ➤ My stats
-
-<a href="https://github.com/rafaelmatostj">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelmatostj&show_icons=true&theme=buefy" />
-</a>
 
 ### ☕️&nbsp; Wanna chat?
 

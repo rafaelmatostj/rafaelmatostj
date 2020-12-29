@@ -8,7 +8,7 @@ My learning is based on creating projects and contributing to the open source co
 
 My passion for programming is related to create incredible things and help people, doesn't matter the technology stack.
 
-### 🔭&nbsp; Goals for 2020
+### 🔭&nbsp; Goals for 2021
 
 - Produce more videos for my [Youtube Channel](https://www.youtube.com/channel/UCJzlswqP9XSUGWzbVVfnP-A?view_as=subscriber)
 - Launch a real product

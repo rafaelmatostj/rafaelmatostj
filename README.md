@@ -19,7 +19,7 @@ My passion for programming is related to create incredible things and help peopl
 ### ☕️&nbsp; Wanna chat?
 
 🚀 [Site](https://developermattos.cf) <br>
-🐦 [Twitter](https://twitter.com/DevMattos) <br>
+🐦 Twitter<br>
 📸 [Instagram](https://www.instagram.com/rafs_006) <br>
 
 - Programming stuff

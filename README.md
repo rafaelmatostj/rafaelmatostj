@@ -18,8 +18,8 @@ My passion for programming is related to create incredible things and help peopl
 
 ### ☕️&nbsp; Wanna chat?
 
-🚀 [Site](https://spacesolution.cf/beta/) <br>
+🚀 Site <br>
 🐦 Twitter<br>
-📸 [Instagram](https://www.instagram.com/rafs_006) <br>
+📸 Instagram<br>
 
 - Programming stuff

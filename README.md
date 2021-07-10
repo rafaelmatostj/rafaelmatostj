@@ -1,4 +1,4 @@
-🖖🏼 &nbsp; Hi! I'm a Software Engineer at RGM 360°
+🖖🏼 &nbsp; Hi! I'm a Software Engineer 
 
 ### ✨&nbsp; Seeking knowledge all the time
 

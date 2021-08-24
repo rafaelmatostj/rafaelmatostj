@@ -7,8 +7,6 @@ My learning is based on creating projects and contributing to the open source co
 ### 💡&nbsp; Driven by shipping products that help people
 
 My passion for programming is related to create incredible things and help people, doesn't matter the technology stack.
-  <img  src="https://github-readme-streak-stats.herokuapp.com?user=rafaelmatostj&theme=midnight-purple" style="max-width:100%;" width="430" align="middle">
- 
 
 
 ### ☕️&nbsp; Wanna chat?
@@ -18,3 +16,5 @@ My passion for programming is related to create incredible things and help peopl
 📸 Instagram<br>
 
 - Programming stuff
+
+  <img  src="https://github-readme-streak-stats.herokuapp.com?user=rafaelmatostj&theme=midnight-purple" style="max-width:100%;" width="430" align="middle">

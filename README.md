@@ -8,11 +8,7 @@ My learning is based on creating projects and contributing to the open source co
 
 My passion for programming is related to create incredible things and help people, doesn't matter the technology stack.
 
-### 🔭&nbsp; Goals for 2021
-
-- Produce more videos for my [Youtube Channel](https://www.youtube.com/channel/UCJzlswqP9XSUGWzbVVfnP-A?view_as=subscriber)
-- Launch a real product
-- Improve my [GraphQL](https://graphql.org/) Knowledge
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelmatostj&show_icons=true&theme=midnight-purple&line_height=27" alt="Meus Stats   do Github" style="max-width:100%;" height="180em">
 
 
 

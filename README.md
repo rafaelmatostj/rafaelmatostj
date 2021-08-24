@@ -7,9 +7,8 @@ My learning is based on creating projects and contributing to the open source co
 ### 💡&nbsp; Driven by shipping products that help people
 
 My passion for programming is related to create incredible things and help people, doesn't matter the technology stack.
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmatostj&theme=midnight-purple&layout=compact" style="max-           width:100%;" height="180em">
-
+  <img  src="https://github-readme-streak-stats.herokuapp.com?user=rafaelmatostj&theme=midnight-purple" style="max-width:100%;" width="430" align="middle">
+ 
 
 
 ### ☕️&nbsp; Wanna chat?

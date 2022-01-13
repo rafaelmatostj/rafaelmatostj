@@ -58,7 +58,7 @@ Date: `March/2020 - July/2021`
 **Software Engineer & Designer** \
 [**Freelancer**](#) • Part-time\
 Languages & Technologies: `PHP`, `Python`, `Django`, `JavaScript`, `Node`, `GoLang`, `wordpress`,`figma`, `Adobe Photoshop` \
-Date: `January/2021 - present` **Check availability for freelancer**
+Date: `January/2020 - present` **Check availability for freelancer**
 
 <br/><br/>
 

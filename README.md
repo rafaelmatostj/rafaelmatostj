@@ -67,7 +67,7 @@ Date: `January/2021 - present` **Check availability for freelancer**
 **Desenvolvedor full stack** \
 [**Pequi Soluções**](https://github.com/PequiSolucoes) • Full-time \
 Languages & Technologies: `PHP`, `html`, `css`, `sass`, `JavaScript`,  `wordpress` \
-Date: `January/2019 - January/2021`
+Date: `January/2019 - January/2020`
 
 <br/><br/>
 

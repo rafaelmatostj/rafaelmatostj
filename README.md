@@ -76,7 +76,7 @@ Date: `January/2019 - January/2020`
 **Front end developer** \
 [**Top Tal**](https://www.toptal.com) • Full-time \
 Languages & Technologies: `html`, `css`, `sass`, `JavaScript`, `figma`, `adobe xd`, `React`,   \
-Date: `July/2019 - March/2019`
+Date: `July/2018 - March/2019`
 
 <br/><br/>
 

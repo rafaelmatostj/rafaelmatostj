@@ -20,7 +20,7 @@ In the overview below you will find my most recent work experience:
 [<img align="left" height="94px" width="94px" alt="Gtech" src="work/gtech.png"/>](#/)
 
 **Software Engineer** \
-[**Gtech**](#) • Full-time \
+[**Gtech**](https://github.com/gtech-pro) • Full-time \
 Languages & Technologies: `PHP`, `Python`, `Django`, `JavaScript`, `Node`, `GoLang`, `wordpress`\
 Date: `July/2021-present`	
 
@@ -56,7 +56,7 @@ Date: `March/2020 - July/2021`
 [<img align="left" height="94px" width="94px" alt="Gtech" src="work/freelancer.png"/>](#/)
 
 **Software Engineer & Designer** \
-[**Freelancer**](#) • Part-time\
+[**Freelancer**](https://www.freelancer.com) • Part-time\
 Languages & Technologies: `PHP`, `Python`, `Django`, `JavaScript`, `Node`, `GoLang`, `wordpress`,`figma`, `Adobe Photoshop` \
 Date: `January/2020 - present` **Check availability for freelancer**
 
@@ -83,7 +83,7 @@ Date: `July/2018 - March/2019`
 [<img align="left" height="94px" width="94px" alt="Gtech" src="work/42codelabs.png"/>](#/)
 
 **Front end developer** \
-[**42 Codelab**](http://www.42codelab.com) • Part-time \
+[**42 Codelab**](http://www.42codelab.com) • Full-time \
 Languages & Technologies: `html`, `css`, `sass`, `JavaScript`   \
 Date: `July/2017 - July/2018`
 

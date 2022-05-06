@@ -6,13 +6,14 @@
 <p align="left"> 
   🌎 My name is Rafael Matos. I'm a <strong>Software Engineer and Designer.</strong><br>
 </p>
-<br>
-<br>
+ <a href="https://www.instagram.com/rafamatosdev/" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=00FFFF&link=https://www.instagram.com/iuricode"/>
+  </a> 
 <!-- <img  src="https://github-readme-streak-stats.herokuapp.com?user=rafaelmatostj&theme=midnight-purple" style="max-width:100%;" width="430" align="middle"> -->
 
 <br>
 <br>
-### Work Experience
+###Work Experience
 <br><br>
 
 In the overview below you will find my most recent work experience:
@@ -90,7 +91,5 @@ Date: `July/2017 - July/2018`
 <br/><br/>
 
 <p>
-  <a href="https://www.instagram.com/rafamatosdev/" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=00FFFF&link=https://www.instagram.com/iuricode"/>
-  </a> 
+ 
 </p>

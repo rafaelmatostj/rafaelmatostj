@@ -1,95 +1,43 @@
-🖖🏼 &nbsp; Hi! I'm a Software Engineer 
+# 👨‍💻 Desenvolvedor Full Stack
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px" width="300px" align="right" alt="Computador iuriCode">
-<br>
-<br>
-<p align="left"> 
-  🌎 My name is Rafael Matos. I'm a <strong>Software Engineer and Designer.</strong><br>
-</p>
- <a href="https://www.instagram.com/rafamatosdev/" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=00FFFF&link=https://www.instagram.com/iuricode"/>
-  </a> 
-<!-- <img  src="https://github-readme-streak-stats.herokuapp.com?user=rafaelmatostj&theme=midnight-purple" style="max-width:100%;" width="430" align="middle"> -->
+🚀 Construindo sistemas escaláveis, automações e aplicações web de alta performance.
 
-<br>
-<br>
-###Work Experience
-<br><br>
+---
 
-In the overview below you will find my most recent work experience:
+## 💡 Sobre
 
-[<img align="left" height="94px" width="94px" alt="Gtech" src="work/gtech.png"/>](#/)
+Desenvolvedor Full Stack focado na criação de soluções eficientes, escaláveis e orientadas a resultado.
 
-**Software Engineer** \
-[**Gtech**](https://github.com/gtech-pro) • Full-time \
-Languages & Technologies: `PHP`, `Python`, `Django`, `JavaScript`, `Node`, `GoLang`, `wordpress`\
-Date: `July/2021-present`	
+Atuo no desenvolvimento de sistemas web, automações e integrações, sempre priorizando performance, simplicidade e aplicação prática no mundo real.
 
-<br/><br/>
+---
 
-[<img align="left" height="94px" width="94px" alt="Gtech" src="work/devindie.png"/>](#/)
+## 🔥 O que eu faço
 
-**Software Engineer, Game Developer & Designer** \
-[**IndieDev**](https://rafael.cf) • Part-time \
-Languages & Technologies: `C#`, `Python`, `vue`, `C++`, `unity`, `react`,`wordpress`, `Blender`, `figma`, `Adobe Photoshop` \
-Date: `August/2021 - present`
+- Desenvolvimento de sistemas web  
+- Criação de automações  
+- Integração entre sistemas  
+- Estruturação de plataformas digitais  
+- Otimização de processos  
 
-<br/><br/>
+---
 
-[<img align="left" height="94px" width="94px" alt="Gtech" src="work/bossabox.png"/>](#/)
+## 📈 Foco
 
-**Software Engineer** \
-[**BossaBox**](https://bossabox.com/para-empresas) • Full-time \
-Languages & Technologies: `next`, `react`,`node` \
-Date: `March/2021 - present`
+- Escalabilidade  
+- Código limpo e eficiente  
+- Automação e produtividade  
+- Performance e confiabilidade  
 
-<br/><br/>
+---
 
-[<img align="left" height="94px" width="94px" alt="Gtech" src="work/regmcore.png"/>](#/)
+## 📫 Contato
 
-**Software Engineer** \
-[**Rgm core**](https://rgmcore.cf) • Full-time \
-Languages & Technologies: `PHP`, `Python`, `Django`, `JavaScript`, `Node`, `GoLang`, `wordpress` \
-Date: `March/2020 - July/2021`
+- Email: seu@email.com  
+- WhatsApp: +55 XX XXXXX-XXXX  
 
-<br/><br/>
+---
 
-[<img align="left" height="94px" width="94px" alt="Gtech" src="work/freelancer.png"/>](#/)
+## ⚡ Filosofia
 
-**Software Engineer & Designer** \
-[**Freelancer**](https://www.freelancer.com) • Part-time\
-Languages & Technologies: `PHP`, `Python`, `Django`, `JavaScript`, `Node`, `GoLang`, `wordpress`,`figma`, `Adobe Photoshop` \
-Date: `January/2020 - present` **Check availability for freelancer**
-
-<br/><br/>
-
-[<img align="left" height="94px" width="94px" alt="Gtech" src="work/pequi.png"/>](#/)
-
-**Desenvolvedor full stack** \
-[**Pequi Soluções**](https://github.com/PequiSolucoes) • Full-time \
-Languages & Technologies: `PHP`, `html`, `css`, `sass`, `JavaScript`,  `wordpress` \
-Date: `January/2019 - January/2020`
-
-<br/><br/>
-
-[<img align="left" height="94px" width="94px" alt="Gtech" src="work/toptal.png"/>](#/)
-
-**Front end developer** \
-[**Top Tal**](https://www.toptal.com) • Full-time \
-Languages & Technologies: `html`, `css`, `sass`, `JavaScript`, `figma`, `adobe xd`, `React`,   \
-Date: `July/2018 - March/2019`
-
-<br/><br/>
-
-[<img align="left" height="94px" width="94px" alt="Gtech" src="work/42codelabs.png"/>](#/)
-
-**Front end developer** \
-[**42 Codelab**](http://www.42codelab.com) • Full-time \
-Languages & Technologies: `html`, `css`, `sass`, `JavaScript`   \
-Date: `July/2017 - July/2018`
-
-<br/><br/>
-
-<p>
- 
-</p>
+> Simples. Funcional. Escalável.
